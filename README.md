@@ -1,10 +1,10 @@
 # Hi there, I'm Web3Dhaymon! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](https://github.com/Web3dhaymon/Web3dhaymon/blob/main/Github%20Banner.png?raw=true)
 
 ## About Me 🚀
 
-I'm a passionate **Software Development** with experience in **Front and Back-end Development**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Software Developer** with experience in **Front and Back-end Development**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **Back-end Development**
 - 🔭 Working on: **A Shopify clone**
@@ -24,17 +24,11 @@ I'm a passionate **Software Development** with experience in **Front and Back-en
 
 ## Featured Projects 💻
 
-### [Project 1 Title](project_1_link)
+### Neeymar Tribute page (https://github.com/Web3dhaymon/neymar-web)
 
 ![Project 1 Screenshot](project_1_screenshot_url)
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
-
-### [Project 2 Title](project_2_link)
-
-![Project 2 Screenshot](project_2_screenshot_url)
-
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
+**[Project 1 Title]** is a **video compilation webpage** built with **HTML**. This project demonstrates my ability to **utilize onlly html in code**. You can check out the repository [here](https://github.com/Web3dhaymon/neymar-web).
 
 ## Get in Touch 📬
 
